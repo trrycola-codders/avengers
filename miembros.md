@@ -7,3 +7,4 @@
 5. Falcon
 6. Hank Pym
 7. Hawkeye
+8. Nick Fury
